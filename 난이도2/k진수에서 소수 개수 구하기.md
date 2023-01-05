@@ -1,4 +1,4 @@
-## 문제: k진수에서 소수 개수 구하기 ([https://school.programmers.co.kr/learn/courses/30/lessons/118667])  
+## 문제: k진수에서 소수 개수 구하기 (https://school.programmers.co.kr/learn/courses/30/lessons/92335)  
   
 ```python
 def solution(n, k):
